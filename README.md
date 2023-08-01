@@ -1,6 +1,8 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+[![MasterHead]https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm saurav kunwor</h1>
 <h3 align="center">A passionate frontend developer from nepal</h3>
+<h3 align="center">No crush only crash😜🤪</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravkunwor&label=Profile%20views&color=0e75b6&style=flat" alt="sauravkunwor" /> </p>
