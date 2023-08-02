@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [sauravkunwor.com.np](sauravkunwor.com.np)
+- 👨‍💻 All of my projects are available at [sauravkunwor.com.np](https://www.sauravkunwor.com.np)
 
 - 💬 Ask me about **HTML,CSS,JS,FIGMA,MERN**
 
