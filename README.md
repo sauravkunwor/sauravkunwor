@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm saurav kunwor</h1>
 <h3 align="center">A passionate frontend developer from nepal</h3>
 <h3 align="center">No crush only crash😜🤪</h3>
