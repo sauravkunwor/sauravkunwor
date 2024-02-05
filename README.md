@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurav kunwor" target="blank"><img src="https://img.shields.io/twitter/follow/saurav kunwor?logo=twitter&style=for-the-badge" alt="saurav kunwor" /></a> </p>
 
-- 🔭 I’m currently working on **Image to balled generator**
+- 🔭 I’m currently working on **Image to poem generator**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👨‍💻 All of my projects are available at [sauravkunwor.com.np](https://www.sauravkunwor.com.np)
 
