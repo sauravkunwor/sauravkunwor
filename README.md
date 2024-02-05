@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Image to poem generator**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [sauravkunwor.com.np](https://www.sauravkunwor.com.np)
 
